@@ -2,7 +2,7 @@
 //  Camera.h
 //  iOS-NestDK
 //
-//  Created by Admin on 10/30/17.
+//  Created by Andriy Kruglyanko on 10/30/17.
 //  Copyright © 2017 Nest Labs. All rights reserved.
 /*  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.

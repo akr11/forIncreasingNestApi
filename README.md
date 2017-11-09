@@ -3,7 +3,7 @@
 See please readme file on https://github.com/nestlabs/ios-NestDK. In this repository only added camera support.
 Don't forgot set needed permissions for camera in console (read please documentation of Nest API).
 
-https://github.com/akr11/forIncreasingNestApi/blob/master/cameraNestApiWithLog.gif?raw=true
+![Demo] (https://github.com/akr11/forIncreasingNestApi/blob/master/cameraNestApiWithLog.gif?raw=true)
 
 License
 

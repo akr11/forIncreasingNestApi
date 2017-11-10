@@ -1,7 +1,11 @@
 # Nest for iOS
 
-See please readme file on https://github.com/nestlabs/ios-NestDK. In this repository only added camera support.
+From Nest API for iOS is only sample code for thermostates Nest API.
+I did support for show parameters for Nest API camera and add it to code https://github.com/akr11/forIncreasingNestApi.
+See please readme file and links in it on github  https://github.com/nestlabs/ios-NestDK.
+In this repository only added camera support.
 Don't forgot set needed permissions for camera in console (read please documentation of Nest API).
+Debug was on Nest Home Simulator only.
 
 ![Demo] (https://user-images.githubusercontent.com/7714336/32634616-2a3fb072-c5b5-11e7-9d53-7054904d92db.gif)
 

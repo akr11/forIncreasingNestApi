@@ -7,7 +7,7 @@ In this repository only added camera support.
 Don't forgot set needed permissions for camera in console (read please documentation of Nest API).
 Debug was on Nest Home Simulator only.
 
-[!Watch the video](https://github.com/akr11/forIncreasingNestApi/blob/master/Screenshot%20at%20Nov%2010%2016-02-12.png)](https://www.youtube.com/watch?v=z0MVcnRTF_0)
+[[!Watch the video](https://github.com/akr11/forIncreasingNestApi/blob/master/Screenshot%20at%20Nov%2010%2016-02-12.png)](https://www.youtube.com/watch?v=z0MVcnRTF_0)
 
 License
 
